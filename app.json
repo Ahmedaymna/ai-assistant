@@ -27,7 +27,7 @@
         "android.permission.SET_ALARM"
       ]
     },
-    "plugins": ["expo-router", "expo-av", "expo-speech"],
+    "plugins": ["expo-router"],
     "experiments": { "typedRoutes": true },
     "extra": {
       "eas": {
